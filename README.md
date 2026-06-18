@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, maths, software development and low level stuff.
 - 🌱 I’m currently learning everything that I can XD
 - 💞️ I’m looking to collaborate on projects involving extensive codes, compiler designs and OS stuff.
-- 📫 How to reach me - email @ cs23b097@smail.iitm.ac.in OR @ deepaanjaan2020@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Tui ki chinis ami ki jinis
 
